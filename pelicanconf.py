@@ -41,3 +41,7 @@ PAGE_EXCLUDES = ['extra']
 ARTICLE_EXCLUDES = ['extra']
 EXTRA_PATH_METADATA = {'extra/README.md' : {'path': 'README.md'},
                        'extra/specials/' : {'path': 'specials/'},}
+
+# Plugins
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['assets']
