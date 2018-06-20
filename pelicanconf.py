@@ -3,7 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Mathis Dubrul'
-SITENAME = 'Mathis Dubrul - Animateur/Illustrateur 2D'
+SITENAME = 'Mathis Dubrul'
+SITESUBTITLE = "Animateur / Illustrateur 2D"
 SITEURL = 'https://matouche.github.io'
 
 THEME = 'mportfolio'
