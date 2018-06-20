@@ -8,13 +8,11 @@
             <p class ="info">
                 Publié le {{ article.locale_date }} par
                 {% for author in article.authors %}
-                        <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">
-                            {{ author }}
-                        </a>
+                        <a class="url fn"
+                        href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
                 {% endfor %}
                 dans <a href="{{ SITEURL }}/{{ article.category.url }}">
-                    {{ article.category }}
-                </a>.
+                    {{ article.category }}</a>.
             </p>
         </header>
 
