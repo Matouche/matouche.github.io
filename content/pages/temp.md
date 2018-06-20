@@ -2,6 +2,7 @@ Title: Mathis Dubrul - Portfolio
 URL:
 save_as: index.html
 Template: temp
+status: hidden
 
 Étudiant en 2e année en Animation 2D et Illustration Numérique à la Haute École Albert Jacquard
 
