@@ -1,0 +1,24 @@
+<article>
+        <header>
+            <h1 class="article_title">
+            <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+            title="Permalien vers {{ article.title|striptags }}">
+                {{ article.title }}
+            </a></h1>
+            <p class ="info">
+                Publié le {{ article.locale_date }} par
+                {% for author in article.authors %}
+                        <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">
+                            {{ author }}
+                        </a>
+                {% endfor %}
+                dans <a href="{{ SITEURL }}/{{ article.category.url }}">
+                    {{ article.category }}
+                </a>.
+            </p>
+        </header>
+
+    <div class="article_content">
+        {{ article.content }}
+    </div>
+</article>
