@@ -1,6 +1,7 @@
 title: Peur bleue
 category: Animation
 date: 2017-11-10
+thumbnail: images/peur_bleue.jpg
 
 [![Peur bleue]({filename}/images/peur_bleue.jpg)](https://ncloud.zaclys.com/index.php/s/wDyL3DKqecB9Mic)
 
