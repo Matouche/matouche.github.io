@@ -1,2 +1,3 @@
 {% extends "index.html" %}
-{% block title %}{{ SITENAME }} - {{ category }}{% endblock %}
+{% block canonical %}{{ SITEURL }}/{{ category.url }}{% endblock %}
+{% block title %}{{ category }} - {{ SITENAME }}{% endblock %}

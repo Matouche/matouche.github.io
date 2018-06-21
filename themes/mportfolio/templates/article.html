@@ -1,5 +1,7 @@
 {% extends "base.html" %}
-{% block title %} {{ SITENAME }} - {{ article.title }} {% endblock %}
+{% block canonical %}{{ SITEURL }}/{{ article.url }}{% endblock %}
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+{% block description %}{{ article.summary|striptags|wordwrap(200) }}{% endblock %}
 {% block content %}
 
 {% include 'base_article.html' %}
