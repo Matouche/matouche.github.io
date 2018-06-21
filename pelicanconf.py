@@ -10,6 +10,7 @@ SITE_DESCRIPTION = """Je suis étudiant en 2ème année à la Haute École Alber
                  J'aime bien le cinéma d'animation."""
 
 THEME = 'mportfolio'
+FAVICON = 'images/favicon.png'
 
 PATH = 'content'
 
