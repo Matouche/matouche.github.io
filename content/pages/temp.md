@@ -1,6 +1,5 @@
 Title: Mathis Dubrul - Portfolio
 URL:
-save_as: index.html
 Template: temp
 status: hidden
 

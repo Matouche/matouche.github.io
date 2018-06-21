@@ -38,7 +38,6 @@ RELATIVE_URLS = True
 
 # Useful settings :
 DEFAULT_DATE = 'fs'
-INDEX_SAVE_AS = 'posts.html'
 STATIC_PATHS = ['images', 'extra']
 PAGE_EXCLUDES = ['extra']
 ARTICLE_EXCLUDES = ['extra']
