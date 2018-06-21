@@ -1,7 +1,7 @@
 title: Little Agent
 category: Animation
 date: 2018-06-07
-thumbnail: /images/little_agent_screenshot_1.png
+thumbnail: images/little_agent_screenshot_1.png
 
 # Synopsis
 
