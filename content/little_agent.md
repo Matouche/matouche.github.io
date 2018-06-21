@@ -20,6 +20,6 @@ tout, contrainte technique oblige, en un peu moins de deux minutes. Et c'est acc
 
 # Diffusion
 
-Little Agent est visible pour toute la durée du mois de juin [en suivant ce lien](https://ncloud.zaclys.com/index.php/s/6n4Bg8mKRm6AgGA) avec le mot de passe *juin 2018*.
+Little Agent est visible pour toute la durée du mois de juin [en suivant ce lien](https://ncloud.zaclys.com/index.php/s/6n4Bg8mKRm6AgGA) avec le mot de passe *juin2018*.
 
 Il sera aussi projeté lors de la séance Coups de cœurs de la HEAJ au cinéma Caméo de Namur le 27 juin ([plus d'infos ici](https://www.facebook.com/events/385801405247474/)).
