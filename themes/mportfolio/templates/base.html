@@ -26,21 +26,21 @@
                         {{ SITENAME }}
                         {% if SITESUBTITLE %} <small class="subtitle"> {{ SITESUBTITLE }}</small> {% endif %}
                 </a></h1>
-                <nav class="menu"><ul>
+                <nav class="menu">
                     {% for title, link in MENUITEMS %}
-                        <li><a href="{{ link }}">{{ title }}</a></li>
+                        <a href="{{ link }}">{{ title }}</a>
                     {% endfor %}
                     {% if DISPLAY_PAGES_ON_MENU -%}
                     {% for pg in pages %}
-                        <li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>
+                        <a {% if pg == page %} class="active"{% endif %} href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
                     {% endfor %}
                     {% endif %}
                     {% if DISPLAY_CATEGORIES_ON_MENU -%}
                     {% for cat, null in categories %}
-                        <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+                        <a {% if cat == category %} class="active"{% endif %} href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
                     {% endfor %}
                     {% endif %}
-                </ul></nav>
+                </nav>
             </header>
 
             <section class="content">
