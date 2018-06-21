@@ -4,8 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Mathis Dubrul'
 SITENAME = 'Mathis Dubrul'
-SITESUBTITLE = "Animateur / Illustrateur 2D"
+SITESUBTITLE = "Étudiant Animateur / Illustrateur 2D"
 SITEURL = 'https://matouche.github.io'
+SITE_DESCRIPTION = """Je suis étudiant en 2ème année à la Haute École Albert Jacquard.
+                 J'aime bien le cinéma d'animation."""
 
 THEME = 'mportfolio'
 
@@ -27,7 +29,7 @@ LINKS = ()
 
 # Social widget
 SOCIAL = (('Vimeo', 'https://vimeo.com/user12625616'),
-          ('ArtStation', 'matouche.artstation.com'),)
+          ('ArtStation', 'https://matouche.artstation.com'),)
 
 DEFAULT_PAGINATION = 10
 
