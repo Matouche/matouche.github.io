@@ -6,6 +6,7 @@
         {% assets filters="libsass,cssmin", output="css/main.css", "css/main.scss" %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
         {% endassets %}
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,900|Raleway:400,400i,700" />
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
         {% endif %}
