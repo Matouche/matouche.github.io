@@ -6,8 +6,7 @@ AUTHOR = 'Mathis Dubrul'
 SITENAME = 'Mathis Dubrul'
 SITESUBTITLE = "Étudiant Animateur / Illustrateur 2D"
 SITEURL = 'https://matouche.github.io'
-SITE_DESCRIPTION = """Je suis étudiant en 2ème année à la Haute École Albert Jacquard.
-                 J'aime bien le cinéma d'animation."""
+SITE_DESCRIPTION = """Je suis étudiant en 2ème année à la Haute École Albert Jacquard en Animation et Illustration Numérique 2D."""
 
 THEME = 'mportfolio'
 FAVICON = 'images/favicon.png'
