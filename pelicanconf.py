@@ -26,7 +26,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = ()
+LINKS = (('Curriculum Vitæ', 'https://matouche.github.io/extra/specials/cv'))
 
 # Social widget
 SOCIAL = (('Vimeo', 'https://vimeo.com/user12625616'),
