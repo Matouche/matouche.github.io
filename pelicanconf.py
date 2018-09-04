@@ -25,11 +25,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Curriculum Vitæ', 'https://matouche.github.io/extra/specials/cv'))
+LINKS = ()
 
 # Social widget
 SOCIAL = (('Vimeo', 'https://vimeo.com/user12625616'),
-          ('ArtStation', 'https://matouche.artstation.com'),)
+          ('ArtStation', 'https://matouche.artstation.com'),
+          ('CV', 'https://matouche.github.io/extra/specials/cv'),)
 
 DEFAULT_PAGINATION = 10
 
