@@ -6,9 +6,7 @@ thumbnail: images/little_agent_screenshot_1.png
 # Synopsis
 
 Little Agent raconte les (més)aventures du plus petit agent secret du Royaume chargé de sauver le
-Roi d’une tentative aussi diabolique que ridicule d’attentat par un savant plus fou que méchant.
-Pour empêcher le régicide, notre héros coupe court à ses vacances et fait fi de tous les obstacles. Le
-tout, contrainte technique oblige, en un peu moins de deux minutes. Et c'est accessoirement mon film de fin d'année.
+Roi d’une tentative d'attentat aussi diabolique que ridicule. Le tout, contrainte technique oblige, en un peu moins de deux minutes.
 
 # Quelques images
 
