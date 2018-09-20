@@ -6,7 +6,7 @@ Date: 2018-06-26 18:15
     width="640" height="360" frameborder="0"
     webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Je recherche un stage de 12 semaines en studio de novembre 2018 à janvier 2019. Contactez-moi si vous êtes intéressés (e-mail à la fin de la vidéo) !
+**Je recherche un stage de 12 semaines en studio de novembre 2018 à janvier 2019. Contactez-moi si vous êtes intéressés (e-mail à la fin de la vidéo) !**
 
 [EN]  
 Looking for a 12-week internship in a studio from november 2018 to january 2019. Feel free to contact me if you're interested (e-mail at the end of the video) !
