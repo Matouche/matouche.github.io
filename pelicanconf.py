@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Mathis Dubrul'
 SITENAME = 'Mathis Dubrul'
-SITESUBTITLE = "Étudiant Animateur / Illustrateur 2D"
+SITESUBTITLE = "Animateur / Illustrateur 2D"
 SITEURL = 'https://matouche.github.io'
 SITE_DESCRIPTION = """Je suis étudiant en 2ème année à la Haute École Albert Jacquard en Animation et Illustration Numérique 2D."""
 
