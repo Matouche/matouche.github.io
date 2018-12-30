@@ -13,8 +13,6 @@ Roi d’une tentative d'attentat aussi diabolique que ridicule. Le tout, contrai
 ![Little Agent]({filename}/images/little_agent_screenshot_4.png)
 ![Little Agent]({filename}/images/little_agent_screenshot_5.png)
 
-Little Agent est visible pour toute la durée du mois de juin (et même un peu plus) [en suivant ce lien](https://ncloud.zaclys.com/index.php/s/6n4Bg8mKRm6AgGA) avec le mot de passe *juin2018*.
-
 Il sera aussi projeté lors de la séance Coups de cœurs de la HEAJ au cinéma Caméo de Namur le 27 juin ([plus d'infos ici](https://www.facebook.com/events/385801405247474/)).
 
 # Sélection
@@ -23,3 +21,7 @@ Little Agent est programmé au **Festival International du Film Francophone** de
 
   - Le samedi 29 septembre à 18h, au Caméo
   - Le mercredi 3 octobre à 9h30, au Théâtre de Namur
+
+## EDIT : Little Agent à Anima !
+
+Little Agent est en sélection nationale au Festival du Film d'Animation Anima de Bruxelles&nbsp;! Plus d'information d'ici peu.
