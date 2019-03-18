@@ -28,11 +28,12 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Social widget
-SOCIAL = (('Vimeo', 'https://vimeo.com/user12625616'),
+SOCIAL = (('<strong>Demo Reel</strong>', 'https://matouche.github.io/demo-reel-2018.html'),
+	  ('Vimeo', 'https://vimeo.com/user12625616'),
           ('ArtStation', 'https://matouche.artstation.com'),
           ('CV', 'https://matouche.github.io/extra/specials/cv'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

@@ -4,8 +4,11 @@ date: 2018-06-07
 thumbnail: images/little_agent_screenshot_1.png
 
 
-*Little Agent* est un court métrage qui raconte les (més)aventures du plus petit agent secret du Royaume chargé de sauver le
+*Little Agent* raconte les (més)aventures du plus petit agent secret du Royaume chargé de sauver le
 Roi d’une tentative d'attentat aussi diabolique que ridicule. Le tout, contrainte technique oblige, en un peu moins de deux minutes.
+
+**Sélectionné en compétition nationale à Anima 2019 (Bruxelles)**  
+Sélection dans le programme Campus du Festival du Film Francophone de Namur  
 
 ![Little Agent]({filename}/images/little_agent_screenshot_1.png)
 ![Little Agent]({filename}/images/little_agent_screenshot_2.png)
@@ -13,15 +16,16 @@ Roi d’une tentative d'attentat aussi diabolique que ridicule. Le tout, contrai
 ![Little Agent]({filename}/images/little_agent_screenshot_4.png)
 ![Little Agent]({filename}/images/little_agent_screenshot_5.png)
 
-Il sera aussi projeté lors de la séance Coups de cœurs de la HEAJ au cinéma Caméo de Namur le 27 juin ([plus d'infos ici](https://www.facebook.com/events/385801405247474/)).
+# Où le voir ?
 
-# Sélection
+Little Agent sera mis en ligne dans les prochains mois, en attendant voici les lieux où il a été/sera projeté.
 
-Little Agent est programmé au **Festival International du Film Francophone** de Namur ! Rendez-vous :
+- séance Coups de cœurs de la HEAJ au cinéma Caméo de Namur le 27 juin 2018
 
-  - Le samedi 29 septembre à 18h, au Caméo
-  - Le mercredi 3 octobre à 9h30, au Théâtre de Namur
+- **Festival International du Film Francophone 2018**
+    - le samedi 29 septembre à 18h, au Caméo
+    - le mercredi 3 octobre à 9h30, au Théâtre de Namur
 
-## EDIT : Little Agent à Anima !
-
-Little Agent est en sélection nationale au Festival du Film d'Animation Anima de Bruxelles&nbsp;! Plus d'information d'ici peu.
+- Compétition nationale au **Festival du Film d'Animation Anima de Bruxelles 2019** :
+    - le mardi 5 mars à 17h45 (Programme *C'est du belge 2*, Flagey, Studio 4)
+    - le jeudi 7 mars à 18h (Programme *C'est du belge 2*, Flagey, Studio 5)
