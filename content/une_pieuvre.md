@@ -3,4 +3,4 @@ category: Illustration
 date: 2019-02-15
 thumbnail: images/pieuvre.jpg
 
-![Salade maritime]({filename}/images/pieuvre.jpg)
+![Salade maritime]({static}/images/pieuvre.jpg)

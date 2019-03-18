@@ -5,4 +5,4 @@ thumbnail: images/carnet_anima.jpg
 
 Quelques croquis sur le vif du public des conférences d'Anima cette année.
 
-![Phare]({filename}/images/carnet_anima.jpg)
+![Phare]({static}/images/carnet_anima.jpg)

@@ -10,11 +10,11 @@ Roi d’une tentative d'attentat aussi diabolique que ridicule. Le tout, contrai
 **Sélectionné en compétition nationale à Anima 2019 (Bruxelles)**  
 Sélection dans le programme Campus du Festival du Film Francophone de Namur  
 
-![Little Agent]({filename}/images/little_agent_screenshot_1.png)
-![Little Agent]({filename}/images/little_agent_screenshot_2.png)
-![Little Agent]({filename}/images/little_agent_screenshot_3.png)
-![Little Agent]({filename}/images/little_agent_screenshot_4.png)
-![Little Agent]({filename}/images/little_agent_screenshot_5.png)
+![Little Agent]({static}/images/little_agent_screenshot_1.png)
+![Little Agent]({static}/images/little_agent_screenshot_2.png)
+![Little Agent]({static}/images/little_agent_screenshot_3.png)
+![Little Agent]({static}/images/little_agent_screenshot_4.png)
+![Little Agent]({static}/images/little_agent_screenshot_5.png)
 
 # Où le voir ?
 
